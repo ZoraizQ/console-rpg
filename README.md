@@ -1,4 +1,4 @@
-# Text-based-RPG-Assignment, repository created by Zoraiz Qureshi
+# Text-based-RPG-Assignment C++
 C++ OOP based assignment completed to complete skeleton code along with helper functions 
 to develop a complete text-based RPG with load/save, items, combat features. 
 

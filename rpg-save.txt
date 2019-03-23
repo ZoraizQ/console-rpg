@@ -1,0 +1,15 @@
+6	1
+100
+Sword	1	20
+HealingPotion	2	20
+Axe	1	40
+Empty	0	0
+Empty	0	0
+Empty	0	0
+0/N/_	0/N/_	0/N/_	0/N/_	0/B/_	1/N/_	1/N/DSFragment_1_0	
+0/N/_	0/N/_	0/N/_	0/M/_	0/N/GreaterHealingPotion_2_30	1/M/_	1/N/DSFragment_1_0	
+0/N/_	0/N/_	0/N/_	0/N/_	0/N/_	1/N/_	1/P/_	
+0/N/GreaterHealingPotion_2_30	0/N/_	0/N/_	0/N/_	0/N/_	1/N/_	0/N/_	
+0/N/_	0/N/_	1/N/_	0/N/_	1/M/_	1/N/_	0/M/_	
+0/N/_	1/N/_	1/N/_	1/N/_	1/N/_	1/N/DSFragment_1_0	1/N/_	
+0/N/_	1/N/_	1/N/_	0/N/_	0/N/_	0/N/_	0/N/_	
